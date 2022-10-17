@@ -1,0 +1,9 @@
+{
+	"ip":"soubhikzxzxU.aternos.net",
+	"port": 45718,
+	"name": "chomuo",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (kokokoko) (kokokoko)",
+	"login-cmd":"/login (kokokoko)"
+}
